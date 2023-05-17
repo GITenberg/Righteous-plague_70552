@@ -1,0 +1,44 @@
+_repo: Righteous-plague_70552
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Poulton, Peter
+    alias: Poulton, Nelson
+    birthdate: 1914
+    deathdate: 1972
+    gutenberg_agent_id: '55137'
+    url: http://www.gutenberg.org/2009/agents/55137
+creator:
+  author:
+    agent_name: Abernathy, Robert
+    alias: Abernathy, Robert Harwood
+    birthdate: 1924
+    deathdate: 1990
+    gutenberg_agent_id: '35455'
+    url: http://www.gutenberg.org/2009/agents/35455
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Abernathy
+description: ''
+gutenberg_issued: '2023-04-14'
+identifiers:
+  gutenberg: '70552'
+language: en
+pgterms:marc905: 20220527152002abernathy
+pgterms:marc906: '1951'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bColumbia Publications, Inc., $c1951.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Scientists -- Fiction'
+- !lcsh 'Epidemics -- Fiction'
+- !lcsh 'Biological weapons -- Fiction'
+- !lcsh 'Dictators -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Righteous plague
+url: http://www.gutenberg.org/ebooks/70552
